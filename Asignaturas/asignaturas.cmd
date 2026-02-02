@@ -1,0 +1,2 @@
+wget "https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/fp-ensenanza-sans08-loe-curriculo-d20150179.pdf
+wget "https://www.comunidad.madrid/sites/default/files/doc/educacion/fp/FP-Ensenanza-SANS08-LOE-Ficha.pdf"
