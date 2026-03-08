@@ -68,10 +68,10 @@ La rapidez es absoluta. El recuento celular debe realizarse antes de 1 hora de l
 Al equipo de residentes de Análisis Clínicos por la recopilación de perfiles cito-químicos en neuroinfecciones graves.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Strasinger. Urinalysis and Body Fluids. 7th Ed. F.A. Davis.**
-- **Decreto 179/2015 de la CM: Módulo de Gestión de Muestras Biológicas.**
-- [Nefrología al Día: Trastornos de la Dinámica del LCR](https://www.nefrologiaaldia.org)
-- [British Infection Association: Management of Meningitis](https://www.britishinfection.org)
+- **Cerebrospinal Fluid Analysis - StatPearls.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK557672/)
+- **Estudio del líquido cefalorraquídeo: Técnicas y Aplicaciones - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Diagnostic Testing of the CSF - Neurochemistry.** [Ver en frontiersin.org](https://www.frontiersin.org/articles/10.3389/fneur.2021.670305/full)
+- **Manual de Procedimientos: Estudio de Líquidos Biológicos - Comunidad de Madrid.** [Ver en comunidad.madrid](https://www.comunidad.madrid/servicios/salud/)
 
 ---
 ### Sobre la Ponente

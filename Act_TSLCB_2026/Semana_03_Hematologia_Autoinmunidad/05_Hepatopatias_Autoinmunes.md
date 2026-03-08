@@ -65,10 +65,10 @@ La presencia de títulos bajos de ANA o SMA no es infrecuente en otras hepatopat
 A los servicios de Digestivo y Anatomía Patológica del HUGF por la correlación histológica en casos de solapamiento ("Overlap syndrome").
 
 ### 7. Bibliografía (Literatura Citada)
-- **EASL Clinical Practice Guidelines: Autoimmune Hepatitis.**
-- **AASLD: Diagnosis and Management of Primary Biliary Cholangitis.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas de Inmunodiagnóstico.**
-- [Atlas of Autoimmune Liver Diseases](https://www.aasld.org)
+- **EASL Clinical Practice Guidelines: Autoimmune Hepatitis.** [Ver en easl.eu](https://easl.eu/guidelines/)
+- **AASLD Clinical Practice Guidelines: Primary Biliary Cholangitis.** [Ver en aasld.org](https://www.aasld.org/practice-guidelines)
+- **Autoanticuerpos en las enfermedades hepáticas autoinmunes - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **StatPearls: Autoimmune Hepatitis.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK459247/)
 
 ---
 ### Sobre la Ponente

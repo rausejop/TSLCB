@@ -71,10 +71,10 @@ La IA no sustituye al técnico especialista; actúa como un multiplicador de su 
 A los desarrolladores de software de visión artificial por la colaboración en el entrenamiento de redes para la identificación de células oncológicas.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Rodak. Hematología: Fundamentos y aplicaciones clínicas. 6ª Ed. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas de Análisis Hematológico.**
-- [ISLH: International Society for Laboratory Hematology - Digital Guidelines](https://www.islh.org)
-- [Lancet Digital Health: AI in Haematological Malignancies](https://www.thelancet.com/journals/landig/home)
+- **ISLH: International Society for Laboratory Hematology - Digital Guidelines.** [Ver en islh.org](https://www.islh.org/guidelines)
+- **Artificial Intelligence in Hematology: A Review - Lancet Digital Health.** [Ver en thelancet.com](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30141-0/fulltext)
+- **AI-driven automation in the clinical hematology laboratory - SEHH.** [Ver en sehh.es](https://www.sehh.es/)
+- **StatPearls: Artificial Intelligence in Medicine.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK590412/)
 
 ---
 *Material científico adaptado a las nuevas competencias tecnológicas del TSLCB.*

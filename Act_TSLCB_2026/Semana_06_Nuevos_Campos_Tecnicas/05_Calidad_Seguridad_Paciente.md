@@ -65,10 +65,10 @@ La calidad técnica es necesaria pero insuficiente; se requiere calidad en la at
 A los responsables de calidad de la red hospitalaria de la CM por la estandarización de los indicadores de gestión.
 
 ### 7. Bibliografía (Literatura Citada)
-- **ISO 15189:2022. Medical laboratories — Requirements for quality and competence.**
-- **Decreto 179/2015 de la CM: Módulo de Gestión de Calidad.**
-- [SEQCML: Recomendaciones sobre Control de Calidad](https://www.seqc.es)
-- [IFCC: Global Quality Indicators Project](https://www.ifcc-mj.org)
+- **ISO 15189:2022 - Medical laboratories: Requirements for quality and competence.** [Ver en iso.org](https://www.iso.org/standard/76677.html)
+- **Gestión de la Calidad en el Laboratorio Clínico - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **IFCC: Global Quality Indicators Project.** [Ver en ifcc.org](https://www.ifcc.org/ifcc-scientific-division/sd-committees/c-tla/quality-indicators-project/)
+- **ENAC: Acreditación de Laboratorios Clínicos.** [Ver en enac.es](https://www.enac.es/web/enac/laboratorios-clinicos)
 
 ---
 *Material técnico didáctico ampliado para la formación de Técnicos Superiores.*

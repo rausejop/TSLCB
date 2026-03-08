@@ -65,10 +65,10 @@ El AMM es el marcador más específico, salvo en pacientes con insuficiencia ren
 Al equipo de Hematología del HUGF por la provisión de frotis de sangre periférica con neutrófilos hipersegmentados.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Barrett. Ganong Fisiología Médica. 26ª Ed. McGraw Hill.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas Instrumentales.**
-- [Nefrología al Día: Anemias en el Laboratorio](https://www.nefrologiaaldia.org)
-- [AACC: Methylmalonic Acid and Vitamin B12 Status](https://www.aacc.org)
+- **Vitamin B12 Deficiency: StatPearls - NCBI.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK441923/)
+- **Methylmalonic Acid Test - Testing.com (AACC).** [Ver en testing.com](https://www.testing.com/tests/methylmalonic-acid/)
+- **Guía SEQCML: Estudio analítico de la vitamina B12 y metabolitos.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Linus Pauling Institute: Vitamin B12.** [Ver en oregonstate.edu](https://lpi.oregonstate.edu/mic/vitamins/vitamin-B12)
 
 ---
 ### Sobre el Ponente

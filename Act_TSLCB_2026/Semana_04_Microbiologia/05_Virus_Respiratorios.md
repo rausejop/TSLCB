@@ -66,10 +66,10 @@ La calidad de la toma de muestra es el factor determinante. Se concluye que un r
 Al equipo de Medicina Preventiva y Salud Pública por la monitorización de la incidencia acumulada regional.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Baron. Medical Microbiology. University of Texas.**
-- **Decreto 179/2015 de la CM: Módulo de Microbiología Clínica.**
-- [WHO: Laboratory Testing of Human Suspect Cases of Influenza A(H5N1)](https://www.who.int)
-- [ECDC: Testing Strategies for Respiratory Viruses in the EU](https://www.ecdc.europa.eu)
+- **CDC - Respiratory Viruses: Clinical Guidelines and Laboratory Testing.** [Ver en cdc.gov](https://www.cdc.gov/respiratory-viruses/index.html)
+- **ECDC - Seasonal Influenza and Other Respiratory Viruses Surveillance.** [Ver en ecdc.europa.eu](https://www.ecdc.europa.eu/en/seasonal-influenza)
+- **Sistemas de Vigilancia de Gripe y Otros Virus Respiratorios - ISCIII.** [Ver en isciii.es](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/)
+- **WHO - Influenze and other Respiratory Viruses: Surveillance and Response.** [Ver en who.int](https://www.who.int/teams/global-influenza-programme)
 
 ---
 ### Sobre el Ponente

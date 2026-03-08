@@ -73,9 +73,10 @@ La fase preanalítica es crítica para el análisis de la ACTH debido a su prope
 Al personal del Hospital de Día Endocrinológico por la supervisión de las tomas de muestra en las pruebas funcionales.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Ganong Fisiología Médica. LANGE McGraw Hill.**
-- **Manual de Endocrinología y Nutrición SEEN.**
-- [MSD Manual: Trastornos Hipofisarios y Suprarrenales](https://www.msdmanuals.com)
+- **The Diagnosis of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline.** [Ver en endocrine.org](https://www.endocrine.org/clinical-practice-guidelines/cushings-syndrome)
+- **Guía de Diagnóstico y Tratamiento del Síndrome de Cushing - SEEN.** [Ver en seen.es](https://www.seen.es/portal/guias-clinicas/)
+- **Protocolo de diagnóstico del hipercortisolismo - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Cushing Syndrome - NCBI StatPearls.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK470218/)
 
 ---
 ### Sobre la Ponente

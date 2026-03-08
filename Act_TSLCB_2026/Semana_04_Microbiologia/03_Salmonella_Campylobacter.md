@@ -61,10 +61,10 @@ MALDI-TOF ha desplazado a las galerías bioquímicas (API) por ahorro de tiempo 
 Al equipo de Vigilancia Epidemiológica de Getafe por la coordinación en la trazabilidad de los brotes de toxoinfección alimentaria.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Murray. Microbiología Médica. 9ª Ed. Elsevier.**
-- **Decreto 179/2015 de la CM: Módulo de Microbiología Clínica.**
-- [Bruker: MALDI Biotyper Principles](https://www.bruker.com)
-- [Protocolos SEIMC: Diagnóstico de la Gastroenteritis Aguda](https://www.seimc.org)
+- **CDC - Salmonella Information for Healthcare Professionals.** [Ver en cdc.gov](https://www.cdc.gov/salmonella/hcp/index.html)
+- **CDC - Campylobacter Information for Healthcare Professionals.** [Ver en cdc.gov](https://www.cdc.gov/campylobacter/hcp/index.html)
+- **Procedimientos en Microbiología Clínica: Diagnóstico microbiológico de las infecciones bacterianas gastrointestinales - SEIMC.** [Ver en seimc.org](https://seimc.org/documentos-cientificos/procedimientos-microbiologia)
+- **WHO: Food Safety - Fact Sheets on Salmonella and Campylobacter.** [Ver en who.int](https://www.who.int/news-room/fact-sheets/detail/salmonella-(non-typhoidal))
 
 ---
 ### Sobre la Ponente

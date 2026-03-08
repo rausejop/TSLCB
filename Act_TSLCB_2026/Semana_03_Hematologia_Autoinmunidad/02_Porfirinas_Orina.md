@@ -70,11 +70,10 @@ La integridad del espécimen de orina de 24h es el factor limitante. Una exposic
 Al personal de Recogida de Muestras del Área Sanitaria 10 por la implementación del kit de transporte fotosensible.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Kaplan. Bioquímica Clínica. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Gestión de Muestras Biológicas.**
-- **Balcells. La Clínica y el Laboratorio. 23ª Ed. Elsevier.**
-- [European Porphyria Network: Best Practice Guidelines for Lab Diagnosis](https://porphyrianet.org)
-- [AACC: Porphyrias and the Clinical Laboratory](https://www.aacc.org)
+- **EPNET: European Porphyria Network - Best Practice Guidelines.** [Ver en porphyrianet.org](https://porphyrianet.org/en/professionals/guidelines)
+- **Diagnóstico de las Porfirias - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Porphyrias and the Clinical Laboratory - AACC/ADLM.** [Ver en adlm.org](https://www.adlm.org/clinical-chemistry/porphyria)
+- **Manual de Toma de Muestras Críticas y Estabilidad Analítica.** [Ver en comunidad.madrid](https://www.comunidad.madrid/servicios/salud/)
 
 ---
 ### Sobre la Ponente

@@ -70,10 +70,10 @@ La S100B ha demostrado reducir el uso de TACs en urgencias en un 30%, disminuyen
 Iniciativa liderada por el equipo de Urgencias del HUGF en coordinación con el Servicio de Bioquímica.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Lodish. Molecular Cell Biology. 9th Ed. Macmillan.**
-- **Decreto 179/2015 de la CM: Módulo de Bioquímica Clínica.**
-- [Scandinavian Neurotrauma Committee: Guidelines for Management of Mild TCE](https://www.scandinavian-neurotrauma.org)
-- [EFLM: Biomarkers in Traumatic Brain Injury](https://www.eflm.eu)
+- **Scandinavian Neurotrauma Committee (SNC): Guidelines for Management of Mild Traumatic Brain Injury.** [Ver en scandinavian-neurotrauma.org](https://www.scandinavian-neurotrauma.org/guidelines)
+- **S100B in the management of head injury: A systematic review.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900742/)
+- **Utility of Protein S100B in Mild Head Injury Management - IFCC.** [Ver en ifcc.org](https://www.ifcc.org/scientific-activities/clinical-relevance-of-biomarkers/)
+- **StatPearls: Traumatic Brain Injury.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK459146/)
 
 ---
 ### Sobre el Ponente

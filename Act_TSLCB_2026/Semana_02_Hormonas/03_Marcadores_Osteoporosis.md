@@ -69,9 +69,10 @@ La utilidad de estos marcadores radica en su capacidad para detectar respuesta t
 A la unidad de Reumatología por la coordinación en la captura de datos de densitometría ósea pareada.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Vander. Fisiología renal y del medio interno.**
-- **Manual AMIR de Reumatología y Endocrinología.**
-- [Consenso de la SEIOMM sobre Seguimiento de Osteoporosis](https://seiomm.org)
+- **IOF: International Osteoporosis Foundation - Bone Turnover Markers.** [Ver en osteo.org](https://www.osteoporosis.foundation/health-professionals/bone-turnover-markers)
+- **Guías de Práctica Clínica en la Osteoporosis Posmenopáusica - SEIOMM.** [Ver en seiomm.org](https://seiomm.org/guias-clinicas/)
+- **Marcadores de Recambio Óseo - Comisión de Hormonas SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Clinical Practice Guideline for the Treatment of Osteoporosis.** [Ver en academic.oup.com](https://academic.oup.com/jcem/article/104/5/1595/5393160)
 
 ---
 ### Sobre la Ponente

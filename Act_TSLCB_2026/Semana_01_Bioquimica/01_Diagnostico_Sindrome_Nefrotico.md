@@ -82,9 +82,10 @@ flowchart LR
 Agradecemos al Servicio de Bioquímica Clínica del HUGF por la provisión de las imágenes de sedimento y los datos de validación técnica.
 
 ### 7. Bibliografía (Literatura Citada)
-- [Vander. Fisiología renal, 10e](https://mhmedical.com)
-- [Guía KDIGO 2024 sobre Enfermedades Glomerulares](https://kdigo.org/guidelines/)
-- [Decreto 179/2015: Currículo TSLCB CM](https://www.comunidad.madrid)
+- **KDIGO 2024 Clinical Practice Guideline for the Management of Glomerular Diseases.** [Ver en kdigo.org](https://kdigo.org/guidelines/glomerular-diseases/)
+- **Síndrome Nefrótico - Nefrología al Día.** [Ver en nefrologiaaldia.org](https://www.nefrologiaaldia.org/es-articulo-sindrome-nefrotico-211)
+- **Manual de Bioquímica Clínica - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Decreto 179/2015 de la CM: Título de TSLCB.** [Ver en comunidad.madrid](https://www.comunidad.madrid/servicios/educacion/formacion-profesional/titulos-fp)
 
 ---
 ### Sobre el Ponente

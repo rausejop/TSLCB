@@ -71,11 +71,10 @@ La macroprolactinemia es una causa frecuente de derivaciones innecesarias a neur
 A los Facultativos de Endocrinología del Hospital Infanta Sofía por la retroalimentación diagnóstica en casos de macroprolactinemia.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Barrett et al. Ganong Fisiología Médica. 26ª Ed. McGraw Hill.**
-- **Gutiérres Uzquiza, A.; Sayagués Manzano, J.M. Pautas para Artículos Originales (2025).**
-- **Decreto 179/2015 de la CM: Módulo de Análisis Bioquímico.**
-- [SEQCML: Guía para el estudio de la Hiperprolactinemia 2024](https://www.seqc.es)
-- [Society for Endocrinology: Clinical Management of Hyperprolactinaemia](https://www.endocrinology.org)
+- **Diagnosis and Treatment of Hyperprolactinemia: An Endocrine Society Clinical Practice Guideline.** [Ver en endocrine.org](https://www.endocrine.org/clinical-practice-guidelines/hyperprolactinemia)
+- **Hiperprolactinemia en la práctica clínica - SEEN.** [Ver en seen.es](https://www.seen.es/portal/guias-clinicas/)
+- **Estudio analítico de la prolactina y sus variantes - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Macroprolactinemia: Discovery, Diagnosis, and Management.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859958/)
 
 ---
 ### Sobre la Ponente

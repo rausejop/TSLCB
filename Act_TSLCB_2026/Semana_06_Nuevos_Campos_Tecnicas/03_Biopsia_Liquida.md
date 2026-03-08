@@ -69,10 +69,10 @@ La biopsia líquida es el pilar de la Medicina de Precisión. Se concluye que el
 A los oncólogos del HUGF y al personal técnico del IISG por la validación de los perfiles mutacionales.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Lodish. Biología Celular y Molecular. 9ª Ed. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Biología Molecular y Citogenética.**
-- [ASCO: Clinical Applications of Liquid Biopsy in Oncology](https://www.asco.org)
-- [Liquid Biopsy Journal: Extracellular Vesicles in Cancer](https://www.journals.elsevier.com)
+- **ESMO Clinical Practice Guideline: Liquid Biopsy in Cancer Management.** [Ver en esmo.org](https://www.esmo.org/guidelines)
+- **Clinical Applications of Liquid Biopsy in Cancer - StatPearls.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK560662/)
+- **Biopsia Líquida: Presente y Futuro - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **ASCO: Circulating Tumor DNA - Clinical Applications in Oncology.** [Ver en asco.org](https://ascopubs.org/doi/full/10.1200/JCO.2017.76.8671)
 
 ---
 ### Sobre el Ponente

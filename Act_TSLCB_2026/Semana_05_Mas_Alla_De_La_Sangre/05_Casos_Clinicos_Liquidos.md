@@ -67,10 +67,10 @@ La interpretación del líquido sinovial debe ser inmediata, ya que los cristale
 A los servicios de Neumología y Reumatología del HUGF por la integración de los datos clínicos en los informes de laboratorio.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Henry. El Laboratorio en el diagnóstico clínico. Marbán.**
-- **Decreto 179/2015 de la CM: Módulo de Gestión de Muestras Biológicas.**
-- [SEQCML: Guía para el estudio de líquidos serosos](https://www.seqc.es)
-- [ACR: Guidelines for the Management of Gout](https://www.rheumatology.org)
+- **Clinical Practice Guidelines for the Management of Pleural Effusion.** [Ver en thorax.bmj.com](https://thorax.bmj.com/content/78/Suppl_3/s1)
+- **Estudio analítico de los líquidos serosos - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **ACR Guideline for the Management of Gout.** [Ver en rheumatology.org](https://www.rheumatology.org/quality-care/clinical-practice-guidelines/gout)
+- **Light's Criteria in the Differentiation of Pleural Effusion.** [Ver en emra.org](https://www.emra.org/emresource-org/percept/lights-criteria/)
 
 ---
 ### Sobre la Ponente

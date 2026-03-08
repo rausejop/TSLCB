@@ -65,10 +65,10 @@ La ausencia de anticuerpos EBNA con VCA positivo es la "huella dactilar" de la i
 Al equipo de Virología por la estandarización de los ciclos de corte (Ct) en la PCR cuantitativa.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Knipe et al. Fields Virology. 7th Ed. Wolters Kluwer.**
-- **Decreto 179/2015 de la CM: Módulos de Microbiología y Hematología.**
-- [MSD Manual: Mononucleosis Infecciosa](https://www.msdmanuals.com)
-- [SEIMC: Procedimientos en Virología - Herpésvirus](https://www.seimc.org)
+- **CDC - Epstein-Barr Virus and Infectious Mononucleosis: For Health Care Providers.** [Ver en cdc.gov](https://www.cdc.gov/epstein-barr/hcp/index.html)
+- **Procedimientos en Microbiología Clínica: Diagnóstico de las infecciones por virus de la familia Herpesviridae - SEIMC.** [Ver en seimc.org](https://seimc.org/documentos-cientificos/procedimientos-microbiologia)
+- **Clinical Practice Guideline: Management of EBV Infection.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963428/)
+- **StatPearls: Infectious Mononucleosis.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK470387/)
 
 ---
 ### Sobre la Ponente

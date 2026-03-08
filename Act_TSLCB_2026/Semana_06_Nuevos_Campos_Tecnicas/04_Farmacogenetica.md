@@ -69,10 +69,10 @@ La farmacogenética transforma el modelo de "ensayo y error" en una medicina pre
 Al personal de Farmacia Hospitalaria por la recopilación de reacciones adversas medicamentosas para la validación de los perfiles genéticos.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Silverthorn. Fisiología Humana. 8ª Ed. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Biología Molecular.**
-- [CPIC: Guías de Implementación Clínica en Farmacogenética](https://cpicpgx.org)
-- [PharmGKB: The Pharmacogenomics Knowledgebase](https://www.pharmgkb.org)
+- **CPIC: Clinical Pharmacogenetics Implementation Consortium Guidelines.** [Ver en cpicpgx.org](https://cpicpgx.org/guidelines/)
+- **PharmGKB: The Pharmacogenomics Knowledgebase.** [Ver en pharmgkb.org](https://www.pharmgkb.org/)
+- **Farmacogenética en el laboratorio clínico - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **SEFF: Sociedad Española de Farmacogenética y Farmacogenómica.** [Ver en seff.es](http://www.seff.es/)
 
 ---
 ### Sobre las Ponentes

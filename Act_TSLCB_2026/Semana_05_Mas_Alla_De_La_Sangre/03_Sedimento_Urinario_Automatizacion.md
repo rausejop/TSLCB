@@ -66,10 +66,10 @@ La automatización permite procesar > 50 muestras/hora. Sin embargo, el TSLCB si
 Iniciativa apoyada por el Servicio de Nefrología para el cribado precoz de nefropatía diabética mediante la detección de microalbuminuria y cilindros grasos.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Mundt. Graff's Textbook of Urinalysis and Body Fluids. Wolters Kluwer.**
-- **Decreto 179/2015 de la CM: Módulo de Análisis Bioquímico (Orina).**
-- [CLSI GP16: Urinalysis; Approved Guideline](https://clsi.org)
-- [EFLM: European Urinalysis Guidelines](https://www.eflm.eu)
+- **European Urinalysis Guidelines - EFLM.** [Ver en eflm.eu](https://www.eflm.eu/site/page/guidelines)
+- **Recomendaciones para el examen sistemático de orina - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Urinalysis StatPearls - NCBI.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK470501/)
+- **Atlas de Sedimento Urinario - Asociación Española de Biopatología Médica.** [Ver en aebm.org](https://www.aebm.org/)
 
 ---
 ### Sobre la Ponente

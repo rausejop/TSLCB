@@ -70,10 +70,10 @@ La calprotectina tiene un valor predictivo negativo excelente: un resultado < 50
 Al equipo de Enfermería de Digestivo por la formación a los pacientes en la técnica de recogida domiciliaria.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Harrison. Principios de Medicina Interna. McGraw Hill.**
-- **Decreto 179/2015 de la CM: Módulo de Gestión de Muestras Biológicas.**
-- [GETECCU: Guía de uso de biomarcadores fecales en EII](https://geteccu.org)
-- [British Society of Gastroenterology: Guidelines on Pancreatic Insufficiency](https://www.bsg.org.uk)
+- **GETECCU: Guía para el uso de biomarcadores en la enfermedad inflamatoria intestinal.** [Ver en geteccu.org](https://geteccu.org/guias-y-recomendaciones)
+- **Consenso SEQCML para la utilización de la calprotectina fecal.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **BSG Guidelines for the Management of Exocrine Pancreatic Insufficiency.** [Ver en bsg.org.uk](https://www.bsg.org.uk/clinical-resource/management-of-exocrine-pancreatic-insufficiency/)
+- **Diagnostic Value of Fecal Elastase-1 in Chronically Stooling Patients.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212502/)
 
 ---
 ### Sobre la Ponente

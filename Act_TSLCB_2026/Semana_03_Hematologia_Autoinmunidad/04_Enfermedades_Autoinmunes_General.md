@@ -69,10 +69,10 @@ La IFI es altamente sensible pero poco específica; un ANA positivo no es diagn�
 Al equipo de residentes de Bioquímica por la gestión del banco de imágenes de fluorescencia para docencia.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Abbas. Inmunología celular y molecular. 10ª Ed. Elsevier.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas de Inmunodiagnóstico.**
-- [ICAP: International Consensus on ANA Patterns (2024 Updates)](https://www.anapatterns.org)
-- [EULAR: Recommendations for ANA Testing in Systemic Rheumatic Diseases](https://www.eular.org)
+- **International Consensus on ANA Patterns (ICAP): Standardized Nomenclature.** [Ver en anapatterns.org](https://www.anapatterns.org/)
+- **EULAR Recommendations for ANA Testing and Clinical Interpretation.** [Ver en eular.org](https://www.eular.org/recommendations.cfm)
+- **Guía SEQCML: El laboratorio clínico en el diagnóstico de enfermedades autoinmunes.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **ANA/ENA Profile Interpretation - StatPearls.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK539825/)
 
 ---
 ### Sobre la Ponente

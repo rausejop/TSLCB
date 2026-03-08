@@ -74,9 +74,9 @@ flowchart TD
 Agradecemos al equipo de Bioquímica de la Comunidad de Madrid por la estandarización de métodos analíticos.
 
 ### 7. Bibliografía (Literatura Citada)
-- [Fisiología Renal y Pancreática - Aranalde](https://edicionesjournal.com)
-- [Actualización de las Guías de Pancreatitis Aguda 2024](https://www.worldgastroenterology.org/guidelines)
-- [Manual de Bioquímica Clínica SEQCML](https://www.seqc.es)
+- **WGO: World Gastroenterology Organisation Global Guidelines - Acute Pancreatitis.** [Ver en worldgastroenterology.org](https://www.worldgastroenterology.org/guidelines/acute-pancreatitis)
+- **Amilasa y Lipasa en el Diagnóstico de Pancreatitis - Manual SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Fisiología de la Secreción Pancreática Exocrina.** [Ver en elsevier.es](https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-continuada-42-articulo-fisiologia-secrecion-pancreatica-exocrina-13094191)
 
 ---
 ### Sobre la Ponente

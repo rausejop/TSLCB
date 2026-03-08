@@ -72,10 +72,10 @@ La detección precoz previene discapacidades permanentes y reduce la mortalidad 
 A los servicios de Pediatría y Atención Primaria por el cumplimiento de los tiempos máximos de envío de las tarjetas de cribado.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Scriver's The Online Metabolic and Molecular Bases of Inherited Disease.**
-- **Decreto 179/2015 de la CM: Módulos de Bioquímica y Biología Molecular.**
-- [AECOM: Guías para el cribado neonatal en España](https://www.aecom.org)
-- [ISNS: International Society for Neonatal Screening](https://www.isns-nn.org)
+- **AECOM: Asociación Española para el Estudio de los Errores Congénitos del Metabolismo.** [Ver en aecom.org](https://aecom.org/profesionales/cribado-neonatal)
+- **ISNS: International Society for Neonatal Screening - Global Standards.** [Ver en isns-nn.org](https://www.isns-nn.org/)
+- **Cribado Neonatal de Enfermedades Endocrino-Metabólicas - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Programa de Cribado Neonatal de la Comunidad de Madrid.** [Ver en comunidad.madrid](https://www.comunidad.madrid/servicios/salud/cribado-neonatal)
 
 ---
 ### Sobre el Ponente

@@ -75,10 +75,10 @@ La PCR diagnóstica es el avance más relevante en medicina intensiva de la últ
 A los servicios de Microbiología de la CM por la creación de la red de diagnóstico rápido molecular.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Lodish. Biología Celular y Molecular. 9ª Ed. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Biología Molecular y Citogenética.**
-- [BioFire Diagnostics: Meningitis/Encephalitis Panel](https://www.biofiredx.com)
-- [IDSA: Practice Guidelines for the Management of Bacterial Meningitis](https://www.idsociety.org)
+- **IDSA Practice Guidelines for the Management of Bacterial Meningitis.** [Ver en idsociety.org](https://www.idsociety.org/practice-guideline/management-of-bacterial-meningitis/)
+- **BioFire FilmArray Meningitis/Encephalitis (ME) Panel - Technical Support.** [Ver en biomerieux.com](https://www.biomerieux.com/en/products/biofire-filmarray-meningitisencephalitis-me-panel)
+- **Procedimientos en Microbiología Clínica: Diagnóstico microbiológico de las infecciones del sistema nervioso central - SEIMC.** [Ver en seimc.org](https://seimc.org/documentos-cientificos/procedimientos-microbiologia)
+- **CDC - Meningitis Information for Healthcare Professionals.** [Ver en cdc.gov](https://www.cdc.gov/meningitis/hcp/index.html)
 
 ---
 ### Sobre la Ponente

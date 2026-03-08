@@ -69,10 +69,10 @@ La descentralización del diagnóstico molecular es clave para el control de la 
 Al personal de las Unidades de ITS por la coordinación en la captación de pacientes y seguimiento de contactos.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Murray. Microbiología Médica. 9ª Ed. Elsevier.**
-- **Decreto 179/2015 de la CM: Módulo de Microbiología Clínica.**
-- [WHO: Global Health Sector Strategy on STIs](https://www.who.int)
-- [SEIMC: Procedimientos en Microbiología - Infecciones de Transmisión Sexual](https://www.seimc.org)
+- **WHO: Global health sector strategies on HIV, viral hepatitis, and STIs.** [Ver en who.int](https://www.who.int/publications/i/item/9789240051935)
+- **Procedimientos en Microbiología Clínica: Diagnóstico microbiológico de las infecciones de transmisión sexual - SEIMC.** [Ver en seimc.org](https://seimc.org/documentos-cientificos/procedimientos-microbiologia)
+- **CDC - STI Treatment Guidelines.** [Ver en cdc.gov](https://www.cdc.gov/std/treatment-guidelines/default.htm)
+- **ECDC - Sexually transmitted infections surveillance.** [Ver en ecdc.europa.eu](https://www.ecdc.europa.eu/en/sexually-transmitted-infections)
 
 ---
 ### Sobre el Ponente

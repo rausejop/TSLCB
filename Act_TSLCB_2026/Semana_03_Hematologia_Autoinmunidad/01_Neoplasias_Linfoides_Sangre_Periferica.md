@@ -69,11 +69,10 @@ La pericia en la fase microscópica inicial por parte del TSLCB es irremplazable
 A la unidad de Hematopatología por la supervisión de las galerías de imágenes digitales y casos de leucemización de linfomas.
 
 ### 7. Bibliografía (Literatura Citada)
-- **WHO Classification of Tumours Editorial Board. Haematolymphoid Tumours. 5th Edition. IARC.**
-- **Rodak. Hematología: Fundamentos y aplicaciones clínicas. Editorial Médica Panamericana.**
-- **Vives y Aguilar. Manual de técnicas de laboratorio en hematología. Elsevier.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas de Análisis Hematológico.**
-- [SEHH: Guía de Diagnóstico de Neoplasias Linfoides](https://www.sehh.es)
+- **The 5th edition of the World Health Organization Classification of Haematolymphoid Tumours: Lymphoid Neoplasms.** [Ver en leukemia-lymphoma.org](https://leukemia-lymphoma.org/index.php/LL/article/view/1)
+- **Guía Nacional de Tratamiento de la Leucemia Linfática Crónica - SEHH.** [Ver en sehh.es](https://www.sehh.es/index.php?option=com_content&view=article&id=1000)
+- **Atlas de Hematología Digital - ASH.** [Ver en ashimagebank.org](https://imagebank.hematology.org/)
+- **Manual de Procedimientos en Hematología y Hemoterapia.** [Ver en elsevier.es](https://www.elsevier.es/es-libros-vives-aguilar-manual-tecnicas-laboratorio- hematologia-9788445821213)
 
 ---
 ### Sobre la Ponente

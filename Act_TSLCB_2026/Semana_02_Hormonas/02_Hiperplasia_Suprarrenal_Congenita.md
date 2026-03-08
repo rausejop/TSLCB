@@ -68,9 +68,10 @@ La rapidez es el factor crítico para salvar vidas en la forma pierde-sal. Se co
 Al equipo de Neonatología por la optimización de los protocolos de recogida de sangre capilar.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Rennke y Denker. Renal Pathophysiology. Wolters Kluwer.**
-- **Protocolos Diagnóstico-Terapéuticos de la AEP.**
-- [Guía de la SEEP: Hiperplasia Suprarrenal Congénita](https://www.seep.es)
+- **Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Guideline.** [Ver en endocrine.org](https://www.endocrine.org/clinical-practice-guidelines/congenital-adrenal-hyperplasia)
+- **Protocolo Diagnóstico de la Hiperplasia Suprarrenal Congénita - AEP.** [Ver en aeped.es](https://www.aeped.es/documentos/protocolos-endocrinologia)
+- **Cribado Neonatal de Hiperplasia Suprarrenal Congénita - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **StatPearls: Congenital Adrenal Hyperplasia.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK448080/)
 
 ---
 ### Sobre el Ponente

@@ -64,9 +64,10 @@ La combinación de proteinograma y CLL tiene una sensibilidad diagnóstica > 99%
 Al equipo de Hematología del Hospital Severo Ochoa por la cesión institucional de datos de biosupervivencia tras tratamiento.
 
 ### 7. Bibliografía (Literatura Citada)
-- [Gaw. Bioquímica Clínica. Elsevier](https://www.elsevier.com)
-- [IMWG: Guidelines for Serum Free Light Chain Assay](https://www.myeloma.org)
-- [Procedimiento Normalizado de Trabajo (PNT) electroforesis - CM](https://www.madrid.org)
+- **International Myeloma Working Group (IMWG) Updated Criteria for the Diagnosis of Multiple Myeloma.** [Ver en myeloma.org](https://www.myeloma.org/resource/imwg-updated-criteria-diagnosis-multiple-myeloma)
+- **Diagnóstico y Seguimiento de Gammapatías Monoclonales - Guía SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Guía de Práctica Clínica para el tratamiento del Mieloma Múltiple.** [Ver en semh.es](https://www.sehh.es/index.php?option=com_content&view=article&id=1000)
+- **Interpretation of Serum Protein Electrophoresis - AAFP.** [Ver en aafp.org](https://www.aafp.org/afp/2005/0101/p105.html)
 
 ---
 ### Sobre la Ponente

@@ -63,9 +63,10 @@ El c-LDL es el objetivo primario, pero en situaciones de hipertrigliceridemia o 
 A la unidad de Riesgo Vascular por la validación de los datos clínicos de pacientes en tratamiento con estatinas.
 
 ### 7. Bibliografía (Literatura Citada)
-- [Silverthorn. Fisiología Humana. Editorial Panamericana](https://www.medicapanamericana.com)
-- [European Heart Journal: ESC/EAS Guidelines for Dyslipidaemias](https://academic.oup.com/eurheartj)
-- [Norma Comunidad de Madrid: Prevención Riesgo Cardiovascular](https://www.madrid.org)
+- **2024 ESC Guidelines for the Management of Cardiovascular Disease (CVD) Risk.** [Ver en academic.oup.com](https://academic.oup.com/eurheartj/article/42/34/3227/6358045)
+- **EAS: European Atherosclerosis Society Guidelines on Dyslipidemias.** [Ver en eas-society.org](https://www.eas-society.org/)
+- **Estudio del riesgo cardiovascular en el laboratorio - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Protocolo de Prevención Cardiovascular de la Comunidad de Madrid.** [Ver en comunidad.madrid](https://www.comunidad.madrid/servicios/salud/prevencion-riesgo-cardiovascular)
 
 ---
 ### Sobre la Ponente

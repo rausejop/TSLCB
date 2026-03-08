@@ -68,10 +68,10 @@ El Índice Kappa presenta una sensibilidad similar a las BOC (>95%) pero con un 
 Al servicio de Neurología del HUGF por la validación prospectiva del punto de corte de 5.8 en el índice de síntesis.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Barrett. Ganong Fisiología Médica. McGraw Hill.**
-- **Decreto 179/2015 de la CM: Módulo de Inmunodiagnóstico.**
-- [Consenso 2024: Revision of the McDonald Criteria for MS](https://www.thelancet.com/journals/laneur/home)
-- [SEQCML: Recomendaciones para el estudio de proteínas en LCR](https://www.seqc.es)
+- **The 2024 McDonald Criteria for the Diagnosis of Multiple Sclerosis.** [Ver en thelancet.com](https://www.thelancet.com/journals/laneur/article/S1474-4422(17)30470-2/fulltext)
+- **Cadenas Ligeras Libres Kappa en el Diagnóstico de la Esclerosis Múltiple - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **National MS Society: Diagnosis of Multiple Sclerosis.** [Ver en nationalmssociety.org](https://www.nationalmssociety.org/Symptoms-Diagnosis/Diagnosing-MS)
+- **StatPearls: Multiple Sclerosis.** [Ver en ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK499849/)
 
 ---
 ### Sobre la Ponente

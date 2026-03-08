@@ -64,11 +64,10 @@ La PCR ha revolucionado la detección de protozoos, pero es ciega para helmintos
 Al personal de Medicina Preventiva por el apoyo en el seguimiento de brotes en guarderías y colegios.
 
 ### 7. Bibliografía (Literatura Citada)
-- **CDC - DPDx: Laboratory Identification of Parasites.**
-- **Prats. Microbiología Clínica. 2ª Ed. Panamericana.**
-- **Decreto 179/2015 de la CM: Módulo de Microbiología Clínica.**
-- [SEIMC: Procedimiento 54 - Parasitología Intestinal](https://www.seimc.org)
-- [Atlas de Parasitología - Universidad de Navarra](https://www.unav.edu)
+- **CDC - DPDx: Laboratory Identification of Parasites of Public Health Concern.** [Ver en cdc.gov](https://www.cdc.gov/dpdx/index.html)
+- **Procedimientos en Microbiología Clínica: Diagnóstico de las parasitosis intestinales - SEIMC.** [Ver en seimc.org](https://seimc.org/documentos-cientificos/procedimientos-microbiologia)
+- **Manual de Parasitología Humana - Universidad de Navarra.** [Ver en unav.edu](https://www.unav.edu/web/facultad-de-medicina)
+- **WHO: Control of Neglected Tropical Diseases - Soil-transmitted helminthiases.** [Ver en who.int](https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections)
 
 ---
 ### Sobre la Ponente

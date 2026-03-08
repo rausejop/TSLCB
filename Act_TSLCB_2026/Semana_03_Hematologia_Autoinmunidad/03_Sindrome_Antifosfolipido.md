@@ -66,10 +66,10 @@ La pericia en la obtención del PPP es fundamental. La presencia de plaquetas in
 Al equipo de Hematología del HUF por la provisión de casos de SAF obstétrico para la validación de los puntos de corte de la β2GP1.
 
 ### 7. Bibliografía (Literatura Citada)
-- **Vives y Aguilar. Manual de técnicas de laboratorio en hematología. 5ª Ed. Elsevier.**
-- **Decreto 179/2015 de la CM: Módulo de Técnicas de Inmunodiagnóstico.**
-- [ACR/EULAR: 2023 Classification Criteria for Antiphospholipid Syndrome](https://www.rheumatology.org)
-- [ISTH: Guidelines for Lupus Anticoagulant Testing](https://www.isth.org)
+- **2023 ACR/EULAR Classification Criteria for Antiphospholipid Syndrome.** [Ver en rheumatology.org](https://www.rheumatology.org/quality-care/clinical-practice-guidelines/antiphospholipid-syndrome)
+- **ISTH Guidelines for Lupus Anticoagulant Testing and Interpretation.** [Ver en isth.org](https://www.isth.org/page/Guidance_and_Guidelines)
+- **Diagnóstico del Síndrome Antifosfolípido - SEQCML.** [Ver en seqc.es](https://www.seqc.es/es/bioquimica-en-el-laboratorio-clinico/manuales-y-monografias/)
+- **Protocolo de Estudio de la Trombofilia - SEHH.** [Ver en sehh.es](https://www.sehh.es/index.php?option=com_content&view=article&id=1000)
 
 ---
 ### Sobre la Ponente
