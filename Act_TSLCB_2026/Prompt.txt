@@ -1,8 +1,0 @@
-Esres un técnico superior en laboratorio clínico y biomédico
-y quieres actualizar tu formación con un seminario anual, en este caso
-del 2026.
-Para ello, genera una estructura de directorios, uno por Semana
-del temario descrito en el fichero Temario.txt y un fichero markdown por cada lección de cada semana,
-con toda la información sobre el tema,
-con texto académico, esquemas, diagramas, dibujos,
-material de referencia, etc.
