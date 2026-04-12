@@ -5,34 +5,41 @@
 ![Location](https://img.shields.io/badge/Sede-H.%20Univ.%20Getafe-red?style=for-the-badge)
 
 ## 📋 1. Resumen Ejecutivo (Executive Summary)
+
 Este documento constituye el **Reporte Técnico Final** del proceso de expansión, enriquecimiento y profesionalización de los contenidos del **7º Curso de Actualización en el Laboratorio Clínico**, organizado por el **Servicio de Análisis Clínicos del Hospital Universitario de Getafe (HUGF)**. Se han actualizado un total de **31 unidades temáticas**, transformándolas de esquemas preliminares a capítulos académicos de nivel avanzado, alineados con las exigencias del título de **Técnico Superior de Laboratorio Clínico y Biomédico (TSLCB)** en la Comunidad de Madrid.
 
 > [!IMPORTANT]
 > **Aviso de Preparación y Exención de Responsabilidad**:
+>
 > 1. **Naturaleza del Contenido**: El material contenido en este repositorio es el resultado de una **investigación inicial previa basada en fuentes abiertas**, realizada exclusivamente como preparación para la asistencia al curso de actualización.
-> 2. **Referencias a Autores**: La mención a ponentes y autores en cada capítulo es **meramente testimonial** y se utiliza para organizar la estructura del curso. 
+> 2. **Referencias a Autores**: La mención a ponentes y autores en cada capítulo es **meramente testimonial** y se utiliza para organizar la estructura del curso.
 > 3. **Independencia de Criterio**: El contenido investigado y redactado aquí **no necesariamente coincide** con el material, opiniones o profundidad técnica que cada ponente haya planificado para su intervención real.
 > 4. **Base de Generación**: La información ha sido generada de forma autónoma tomando como única referencia los **títulos de las ponencias** y el **temario oficial** del título de Técnico Superior (TSLCB), sin contacto directo con los autores originales.
 
 ## ⚖️ 2. Marco Normativo y Académico
+
 La actualización se ha fundamentado estrictamente en:
+
 - **Decreto 179/2015 de la Comunidad de Madrid**: Currículo oficial del Grado Superior en TSLCB.
-- **Módulos Profesionales Integrados**: 
+- **Módulos Profesionales Integrados**:
   - *Módulos 1367/1368*: Gestión de muestras y técnicas generales.
   - *Módulos 1369/1371*: Biología molecular y Análisis bioquímico.
   - *Módulos 1373/1374*: Microbiología y Análisis hematológico.
   - *Módulo 1370*: Fisiopatología General (Base del enriquecimiento clínico).
 
 ## 🔬 3. Metodología de Producción Documental (IMRYD)
+
 Siguiendo las **Pautas para la Escritura de Artículos Originales (2025)**, cada documento ha sido reestructurado bajo el sistema **IMRYD**:
-1.  **Introducción (Expansión Teórica)**: Ampliación al máximo nivel académico (estilo libro de texto) integrando fundamentos fisiológicos y patológicos oficiales.
-2.  **Material y Métodos**: Detalle técnico de la instrumentación avanzada (LC-MS/MS, dPCR, Citometría de Flujo, etc.).
-3.  **Resultados y Discusión**: Inclusión de algoritmos de decisión clínica y validación técnica por parte del TSLCB.
-4.  **Esquematización Visual**: Integración de al menos **3 diagramas Mermaid** por lección para facilitar la comprensión de rutas metabólicas y flujos de trabajo.
+
+1. **Introducción (Expansión Teórica)**: Ampliación al máximo nivel académico (estilo libro de texto) integrando fundamentos fisiológicos y patológicos oficiales.
+2. **Material y Métodos**: Detalle técnico de la instrumentación avanzada (LC-MS/MS, dPCR, Citometría de Flujo, etc.).
+3. **Resultados y Discusión**: Inclusión de algoritmos de decisión clínica y validación técnica por parte del TSLCB.
+4. **Esquematización Visual**: Integración de al menos **3 diagramas Mermaid** por lección para facilitar la comprensión de rutas metabólicas y flujos de trabajo.
 
 ## 🗺️ 4. Arquitectura Visual y Conceptual
 
 ### 🧠 Mapa Mental del Currículo (6 Semanas)
+
 ```mermaid
 mindmap
   root((7º Curso Actualización HUGF))
@@ -73,6 +80,7 @@ mindmap
 ```
 
 ### ⚙️ Flujo de Trabajo Documental
+
 ```mermaid
 graph TD
     A[Temario Oficial TSLCB] --> B{Investigación Fuentes Abiertas}
@@ -86,6 +94,7 @@ graph TD
 ```
 
 ### 📊 Ciclo de Vida del Diagnóstico (Impacto TSLCB)
+
 ```mermaid
 sequenceDiagram
     participant P as Paciente/Clínico
@@ -106,6 +115,7 @@ sequenceDiagram
 ## 📅 5. Índice Detallado del Proyecto
 
 ### 🧪 [Semana 1: Bioquímica Clínica](Semana_01_Bioquimica/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **01** | [Diagnóstico del Síndrome Nefrótico](Semana_01_Bioquimica/S01L01_Diagnostico_Sindrome_Nefrotico.md) | Antonio M. Cáliz (HUGF) |
@@ -114,6 +124,7 @@ sequenceDiagram
 | **04** | [Abordaje de Gammapatías Monoclonales](Semana_01_Bioquimica/S01L04_Abordaje_Gammapatias_Monoclonales.md) | Raquel Jáñez (H. Severo Ochoa) |
 
 ### 🌡️ [Semana 2: Endocrinología Analítica](Semana_02_Hormonas/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **05** | [Cushing: Síndrome o Enfermedad](Semana_02_Hormonas/S02L05_Cushing_Sindrome_vs_Enfermedad.md) | Lucía Pardo (HUGF) |
@@ -122,6 +133,7 @@ sequenceDiagram
 | **08** | [Macroprolactina e Interferencias](Semana_02_Hormonas/S02L08_Macroprolactina.md) | Laura Mayor (H. Infanta Sofía) |
 
 ### 🩸 [Semana 3: Hematología y Autoinmunidad](Semana_03_Hematologia_Autoinmunidad/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **09** | [Neoplasias Linfoides Crónicas](Semana_03_Hematologia_Autoinmunidad/S03L09_Neoplasias_Linfoides_Sangre_Periferica.md) | Belén Álvarez (HUGF) |
@@ -131,6 +143,7 @@ sequenceDiagram
 | **13** | [HAI, CBP, CEP: Hepatopatías Autoinmunes](Semana_03_Hematologia_Autoinmunidad/S03L13_Hepatopatias_Autoinmunes.md) | Marta Prat (HUGF) |
 
 ### 🧫 [Semana 4: Microbiología e Infectología](Semana_04_Microbiologia/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **14** | [Diagnóstico Molecular de Parásitos](Semana_04_Microbiologia/S04L14_Parasitos_Intestinales.md) | Elena Hidalgo (H. Donostia) |
@@ -140,6 +153,7 @@ sequenceDiagram
 | **18** | [Virus Respiratorios Post-Pandemia](Semana_04_Microbiologia/S04L18_Virus_Respiratorios.md) | Javier Granado (H. Fuenlabrada) |
 
 ### 💧 [Semana 5: Líquidos Biológicos y Heces](Semana_05_Mas_Alla_De_La_Sangre/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **19** | [Esclerosis Múltiple e Índice Kappa](Semana_05_Mas_Alla_De_La_Sangre/S05L19_Cadenas_Kappa_Esclerosis_Multiple.md) | Marta M. de Paula (HUGF) |
@@ -149,6 +163,7 @@ sequenceDiagram
 | **23** | [Diagnóstico Diferencial Derrame Seroso](Semana_05_Mas_Alla_De_La_Sangre/S05L23_Casos_Clinicos_Liquidos.md) | Verónica Cámara (HUGF) |
 
 ### 🔬 [Semana 6: Nuevos Campos y Técnicas](Semana_06_Nuevos_Campos_Tecnicas/)
+
 | Lección | Título Técnico | Ponente / Autor |
 | :--- | :--- | :--- |
 | **24** | [Proteína S100B en el TCE Leve](Semana_06_Nuevos_Campos_Tecnicas/S06L24_Marcadores_TCE_SB100.md) | Ángel Pablo Pérez (HUGF) |
@@ -163,6 +178,7 @@ sequenceDiagram
 ---
 
 ## ✅ 5. Especificaciones de Calidad y Validaciones
+
 - **📚 Bibliografía**: Todas las lecciones cuentan con referencias actualizadas y verificadas (2020-2024), incluyendo guías **KDIGO**, **SEQCML**, **SEIMC** y normativas **ISO**.
 - **📊 Gráficos**: Se han diseñado **93 diagramas Mermaid** distribuidos equitativamente para ilustrar la validación técnica y procedimental del TSLCB.
 - **✍️ Lenguaje**: Estilo profesional, técnico y académico, optimizado para la formación continua sin perder el rigor facultativo.
@@ -171,4 +187,4 @@ Este repositorio constituye un **recurso de preparación estratégica** para la 
 
 ---
 *Fin del Reporte Técnico de Preparación.*  
-*Generado por Antigravity AI - Marzo 2026.*
+*Generado mediante Spec-Driven Development con ayuda de Google Antigravity - 12 de Abril de 2026.*

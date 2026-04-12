@@ -1,0 +1,51 @@
+# SKILL: Actualización de Contenido de Sesión (Multimedia)
+# Version: 1.0
+# Last Updated: 2026-04-12
+
+## OBJETIVO
+Estandarizar los temas de una semana específica del curso TEL2026, asegurando que cada lección incluya el "Capítulo 8. Charla y Transcripción" con contenido íntegro y actualizado.
+
+## REQUISITOS PREVIOS
+1. Identificar la semana a procesar (ej. Semana 05).
+2. Tener acceso al directorio `Videos/` que contiene los archivos `.txt` con las transcripciones completas (nombrados como "Tema XX.txt").
+3. Tener acceso al `README.md` principal para actualizar el índice.
+
+## FLUJO DE TRABAJO
+
+### 1. Auditoría de Capítulos
+Para cada archivo `.md` de la semana indicada:
+- Verificar la existencia de la sección `### 8. Charla y Transcripción (Contenido Multimedia)`.
+- Si **NO EXISTE**: Añadirla al final del documento siguiendo la estructura estandarizada:
+    ```markdown
+    ### 8. Charla y Transcripción (Contenido Multimedia)
+
+    **Enlace al vídeo:** [Ver en YouTube](URL_CORRESPONDIENTE)
+
+    #### Transcripción de la Sesión
+    [TRANSCRIPCIÓN_COMPLETA]
+
+    #### Explicación de la Ponencia
+    [RESUMEN_TÉCNICO_PARA_TSLCB]
+    ```
+
+### 2. Validación de Transcripción (Protocolo de Densidad Técnica)
+Si la sección **YA EXISTE**, realizar la siguiente verificación:
+- **Longitud y Detalle**: Comparar el texto actual bajo `#### Transcripción de la Sesión` con el archivo correspondiente en `Videos/Tema XX.txt`.
+- **Criterio de Sustitución**: Si el texto en el `.md` es un resumen (pocas líneas, formato de cita `>`) o tiene una extensión significativamente menor a la del archivo original (que suele superar los 20,000 caracteres), **sustituirlo por el texto íntegro del archivo .txt**.
+- **Formato**: El texto debe estar en texto plano (sin `>`) para facilitar la lectura de transcripciones largas.
+
+### 3. Actualización de Metadatos
+- Asegurarse de que el enlace al vídeo sea el correcto para el tema.
+- Mantener o generar una "Explicación de la Ponencia" que resuma los puntos clave para un Técnico Superior (TSLCB).
+
+### 4. Sincronización del README.md
+Tras actualizar los archivos de la semana:
+- Abrir `README.md`.
+- Localizar la tabla correspondiente a la semana procesada.
+- Verificar que los nombres de los archivos y los enlaces internos funcionen correctamente (rutas relativas).
+- Asegurarse de que el nombre del ponente y el título técnico coincidan con el contenido del archivo.
+
+## NOTAS DE SEGURIDAD
+- No eliminar diagramas Mermaid ni secciones académicas previas (IMRYD).
+- Usar `write_to_file` con `Overwrite: true` si el bloque de reemplazo es demasiado grande para evitar errores de búsqueda en archivos con formato complejo.
+- Preservar los banners de "Sobre la Ponente" y avisos de estandarización académica al pie del documento.
